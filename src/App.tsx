@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Github! Here is Kit Yeung!
+          Hello, Here is Kit Yeung Blog!
         </a>
       </header>
     </div>
